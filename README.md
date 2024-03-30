@@ -68,6 +68,11 @@ Greensock Animation Platform(GSAP) is a JavaScript library for creating high-per
 js file and use it in our function and named it cursor. Second, add minHeight and minWidth syle in your App div to fill your browser view so later we can see the result. Third, let's make new div inside App div and give it className of cursor-style and add ref attribute and assign it with cursor variable.<br>
 ![Screenshot (5)](https://github.com/SavvyChic42/Animated-Cursor-using-React-GSAP/assets/151141927/59b0e2a7-33ac-4082-b9f7-784368d039f8)<br>
 
+
+npx create-react-app my app<br>
+cd mouse-hover-effect<br>
+npm install gsap<br>
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
